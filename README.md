@@ -1,7 +1,4 @@
-### Hi 👋 my name is Melika
-
-![ Melika-Ka GitHub stats](https://github-readme-stats.vercel.app/api?username=Melika-Ka&show_icons=true&theme=cobalt)
-
+## Hi 👋 My name is Melika 👩🏻‍💻
 <!--
 **Melika-Ka/Melika-Ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+<h3>My stats :</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=Melika-Ka&show_icons=true&theme=cobalt"/>
+ <div/> 
+  <br/>
+ <div>  
+<h3> My Top Langs :</h3> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melika-Ka&layout=compact"/>
+<div/>
