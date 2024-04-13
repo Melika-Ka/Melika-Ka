@@ -1,5 +1,5 @@
 
-## 👋 Hi ! I'm Meklika Karimi
+# 👋 Hi ! I'm Melika Karimi
 <p> 👩🏻‍💻I’m junior Front-End develpoer</p>
 <p>💻I’m currently learning React js framework </p>
 <p>🧲I was interested in learning Python and now I am also learning Python </p>
