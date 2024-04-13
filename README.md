@@ -1,6 +1,6 @@
 ### Hi 👋 my name is Melika
 
-![ Melika-Ka GitHub stats](https://github-readme-stats.vercel.app/api?username=Melika-Ka&show_icons=true&theme=radical)
+![ Melika-Ka GitHub stats](https://github-readme-stats.vercel.app/api?username=Melika-Ka&show_icons=true&theme=cobalt)
 
 <!--
 **Melika-Ka/Melika-Ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
