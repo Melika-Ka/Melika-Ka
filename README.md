@@ -1,6 +1,4 @@
-```js
-console.log(Hello World !)
-```
+
 <img align="center" src="assets/giphy.gif"/>
 <p>👋I'm Melika Karimi </p>
 <p>👩🏻‍💻I’m junior Front-End develpoer</p>
