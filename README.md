@@ -1,7 +1,9 @@
 ```js
 console.log("Hello World !")
 ```
-<img align="center"  src="assets/giphy.gif"/>
+<p align="center">
+ <img align="center"  src="assets/giphy.gif"/>
+</p>
 <p>👋I'm Melika Karimi </p>
 <p>👩🏻‍💻I’m junior Front-End develpoer</p>
 <p>💻I’m currently learning React js framework </p>
