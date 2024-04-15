@@ -4,11 +4,11 @@ console.log("Hello World !")
 <p align="center">
  <img align="center"  src="assets/giphy.gif"/>
 </p>
-<p>👋I'm Melika Karimi </p>
-<p>👩🏻‍💻I’m junior Front-End develpoer</p>
-<p>💻I’m currently learning React js framework </p>
-<p>🧲I was interested in learning Python and now I am also learning it </p>
-<p>🤝🏻I’m looking to collaborate on React js project in a company </p>
+<p>👋I'm Melika Karimi. </p>
+<p>👩🏻‍💻I’m junior Front-End develpoer. </p>
+<p>💻I’m currently learning React js framework. </p>
+<p>🧲I was interested in learning Python and now I am also learning it. </p>
+<p>🤝🏻I’m looking to collaborate on React js project in a company. </p>
 
 <details>	
   <summary><b>My Skills </b></summary>
