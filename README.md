@@ -7,7 +7,7 @@ console.log("Hello World !")
 <p>👋I'm Melika Karimi </p>
 <p>👩🏻‍💻I’m junior Front-End develpoer</p>
 <p>💻I’m currently learning React js framework </p>
-<p>🧲I was interested in learning Python and now I am also learning Python </p>
+<p>🧲I was interested in learning Python and now I am also learning it </p>
 <p>🤝🏻I’m looking to collaborate on React js project in a company </p>
 
 <details>	
